@@ -1,0 +1,8 @@
+{
+  "name": "Project ORBIT — Operational Repository for Boards & Talent",
+  "description": "USSF Enterprise Talent Management Office & Board Management Office (ETMO/BMO) workflow visibility, candidate scoring, matching lab, portfolio readiness, and talent decision support platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
